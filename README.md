@@ -4,13 +4,54 @@
 Soft Skills 
 Além das minhas habilidades técnicas, também possuo uma forte base em habilidades interpessoais que considero essenciais para um ambiente de trabalho colaborativo e eficaz:
 
-Comunicação: Excelentes habilidades de comunicação verbal e escrita, facilitando a clareza e compreensão em projetos de equipe.
-Trabalho em Equipe: Experiência em colaborar com equipes diversificadas para alcançar objetivos comuns, garantindo uma dinâmica de trabalho produtiva e harmoniosa.
-Resolução de Problemas: Capacidade de analisar problemas complexos e desenvolver soluções eficazes, mantendo a calma e o foco sob pressão.
-Gestão de Tempo: Proficiente em priorizar tarefas e gerenciar o tempo de forma eficiente para cumprir prazos e metas estabelecidas.
-Adaptabilidade: Flexível e capaz de se adaptar rapidamente a mudanças e novas situações, mantendo uma atitude positiva e proativa.
-Pensamento Crítico: Habilidade de avaliar informações de forma crítica e tomar decisões informadas, contribuindo para a melhoria contínua dos processos.
-Encaro desafios com determinação e estou sempre em busca de novas maneiras de aprimorar minhas competências e conhecimentos.</h3>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caixinhas para Soft Skills</title>
+    <style>
+        .box {
+            border: 2px solid #40E0D0; /* Azul turquesa */
+            border-radius: 5px;
+            padding: 10px;
+            margin: 10px 0;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <h1>Comunicação</h1>
+        </div>
+        <div class="box">
+            <h1>Trabalho em Equipe</h1>
+        </div>
+        <div class="box">
+            <h1>Resolução de Problemas</h1>
+        </div>
+        <div class="box">
+            <h1>Gestão de Tempo</h1>
+        </div>
+        <div class="box">
+            <h1>Adaptabilidade</h1>
+        </div>
+        <div class="box">
+            <h1>Pensamento Crítico</h1>
+        </div>
+    </div>
+</body>
+</html>
+
+
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=rosangelacruz&label=Profile%20views&color=40E0D0&style=flat" alt="rosangelacruz" /> 
