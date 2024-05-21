@@ -18,7 +18,7 @@ Além das minhas habilidades técnicas, também possuo uma forte base em habilid
             text-align: center;
             font-family: Arial, sans-serif;
             background-color: #40E0D0; /* Azul turquesa */
-            color: white;
+            color: Azul turquesa;
         }
     </style>
 </head>
