@@ -1,5 +1,15 @@
 <h1 align="center">Olá👋 sou a Rosangela Cruz</h1>
-<h3 align="center">Estou em uma jornada de transição para a área de Análise de Dados, trazendo mais de uma década de experiência como auxiliar administrativo e dois anos como empreendedor no setor de estética. Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas e participando do bootcamp "Analista de Dados e Dashboards" da SoulCode, com término previsto para junho de 2024. Estou determinado a desenvolver minhas habilidades em Python e Power BI, buscando oportunidades na área de dados. Possuo conhecimentos técnicos em: Manipulação de Dados: Pandas, PySpark Banco de Dados: SQL, NoSQL (MongoDB) ETL: Apache NiFi Ferramentas de BI: Power BI, Tableau Desenvolvimento de Dashboards Google Cloud: BigQuery, Google Cloud Storage Segurança da Informação Metodologias Ágeis: Scrum, Kanban Encaro desafios com determinação e estou sempre em busca de novas maneiras de aprimorar minhas competências e conhecimentos.</h3>
+<h3 align="center">Estou em uma jornada de transição para a área de Análise de Dados, trazendo mais de uma década de experiência como auxiliar administrativo e dois anos como empreendedor no setor de estética. Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas e participando do bootcamp "Analista de Dados e Dashboards" da SoulCode, com término previsto para junho de 2024. Estou determinado a desenvolver minhas habilidades em Python e Power BI, buscando oportunidades na área de dados. Possuo conhecimentos técnicos em: Manipulação de Dados: Pandas, PySpark Banco de Dados: SQL, NoSQL (MongoDB) ETL: Apache NiFi Ferramentas de BI: Power BI, Tableau Desenvolvimento de Dashboards Google Cloud: BigQuery, Google Cloud Storage Segurança da Informação Metodologias Ágeis: Scrum, Kanban Encaro desafios com determinação e estou sempre em busca de novas maneiras de aprimorar minhas competências e conhecimentos </h3> 
+  Habilidades Interpessoais
+Além das minhas habilidades técnicas, também possuo uma forte base em habilidades interpessoais que considero essenciais para um ambiente de trabalho colaborativo e eficaz:
+
+Comunicação: Excelentes habilidades de comunicação verbal e escrita, facilitando a clareza e compreensão em projetos de equipe.
+Trabalho em Equipe: Experiência em colaborar com equipes diversificadas para alcançar objetivos comuns, garantindo uma dinâmica de trabalho produtiva e harmoniosa.
+Resolução de Problemas: Capacidade de analisar problemas complexos e desenvolver soluções eficazes, mantendo a calma e o foco sob pressão.
+Gestão de Tempo: Proficiente em priorizar tarefas e gerenciar o tempo de forma eficiente para cumprir prazos e metas estabelecidas.
+Adaptabilidade: Flexível e capaz de se adaptar rapidamente a mudanças e novas situações, mantendo uma atitude positiva e proativa.
+Pensamento Crítico: Habilidade de avaliar informações de forma crítica e tomar decisões informadas, contribuindo para a melhoria contínua dos processos.
+Encaro desafios com determinação e estou sempre em busca de novas maneiras de aprimorar minhas competências e conhecimentos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosangelacruz&label=Profile%20views&color=0e75b6&style=flat" alt="rosangelacruz" /> </p>
 
