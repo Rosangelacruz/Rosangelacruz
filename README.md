@@ -3,63 +3,32 @@
 
 Soft Skills 
 Além das minhas habilidades técnicas, também possuo uma forte base em habilidades interpessoais que considero essenciais para um ambiente de trabalho colaborativo e eficaz:
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Caixinhas para Soft Skills</title>
+    <title>Soft Skills</title>
     <style>
-        .box {
+        .skill-box {
             display: inline-block;
-            border: 2px solid #40E0D0; /* Azul turquesa */
             border-radius: 5px;
-            padding: 10px 15px;
-            margin: 10px;
+            padding: 10px 20px;
+            margin: 10px 5px;
             text-align: center;
             font-family: Arial, sans-serif;
-            box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-            background-color: #f0f8ff; /* Cor de fundo leve para destaque */
-            min-width: 150px; /* Largura mínima para caixinhas uniformes */
-        }
-        
-        .container {
-            text-align: center;
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-        }
-
-        h2 {
-            margin: 0;
-            font-size: 16px;
+            background-color: #40E0D0; /* Azul turquesa */
+            color: white;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="box">
-            <h2>Comunicação</h2>
-        </div>
-        <div class="box">
-            <h2>Trabalho em Equipe</h2>
-        </div>
-        <div class="box">
-            <h2>Resolução de Problemas</h2>
-        </div>
-        <div class="box">
-            <h2>Gestão de Tempo</h2>
-        </div>
-        <div class="box">
-            <h2>Adaptabilidade</h2>
-        </div>
-        <div class="box">
-            <h2>Pensamento Crítico</h2>
-        </div>
-    </div>
-</body>
-</html>
+    <div class="skill-box">Motivação para Desafios</div>
+    <div class="skill-box">Colaboração</div>
+    <div class="skill-box">Adaptabilidade</div>
+    <div class="skill-box">Resolução de Problemas</div>
+    <div class="skill-box">Comunicação</div>
+    <div class="skill-box">Dedicação</div>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=rosangelacruz&label=Profile%20views&color=40E0D0&style=flat" alt="rosangelacruz" /> 
