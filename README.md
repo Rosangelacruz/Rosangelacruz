@@ -1,6 +1,7 @@
-<h1 align="center">Olá👋 sou a Rosangela Cruz</h1>
+<h1 align="center">Olá👋 sou a Rosangela Cruz </h1>
 <h3 align="center">Estou em uma jornada de transição para a área de Análise de Dados, trazendo mais de uma década de experiência como auxiliar administrativo e dois anos como empreendedor no setor de estética. Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas e participando do bootcamp "Analista de Dados e Dashboards" da SoulCode, com término previsto para junho de 2024. Estou determinado a desenvolver minhas habilidades em Python e Power BI, buscando oportunidades na área de dados. Possuo conhecimentos técnicos em: Manipulação de Dados: Pandas, PySpark Banco de Dados: SQL, NoSQL (MongoDB) ETL: Apache NiFi Ferramentas de BI: Power BI, Tableau Desenvolvimento de Dashboards Google Cloud: BigQuery, Google Cloud Storage Segurança da Informação Metodologias Ágeis: Scrum, Kanban Encaro desafios com determinação e estou sempre em busca de novas maneiras de aprimorar minhas competências e conhecimentos </h3> 
-  Habilidades Interpessoais
+
+Soft Skills 
 Além das minhas habilidades técnicas, também possuo uma forte base em habilidades interpessoais que considero essenciais para um ambiente de trabalho colaborativo e eficaz:
 
 Comunicação: Excelentes habilidades de comunicação verbal e escrita, facilitando a clareza e compreensão em projetos de equipe.
@@ -11,7 +12,9 @@ Adaptabilidade: Flexível e capaz de se adaptar rapidamente a mudanças e novas 
 Pensamento Crítico: Habilidade de avaliar informações de forma crítica e tomar decisões informadas, contribuindo para a melhoria contínua dos processos.
 Encaro desafios com determinação e estou sempre em busca de novas maneiras de aprimorar minhas competências e conhecimentos.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rosangelacruz&label=Profile%20views&color=0e75b6&style=flat" alt="rosangelacruz" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=rosangelacruz&label=Profile%20views&color=40E0D0&style=flat" alt="rosangelacruz" /> 
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rosangelacruz" alt="rosangelacruz" /></a> </p>
 
