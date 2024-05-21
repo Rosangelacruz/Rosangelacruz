@@ -1,34 +1,6 @@
-<h1 align="center">Olá👋 sou a Rosangela Cruz </h1>
+<h1 align="center">Olá👋 sou a Rosangela Cruz </h1> 
+<h3 style="color: #40E0D0;
 <h3 align="center">Estou em uma jornada de transição para a área de Análise de Dados, trazendo mais de uma década de experiência como auxiliar administrativo e dois anos como empreendedor no setor de estética. Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas e participando do bootcamp "Analista de Dados e Dashboards" da SoulCode, com término previsto para junho de 2024. Estou determinado a desenvolver minhas habilidades em Python e Power BI, buscando oportunidades na área de dados. Possuo conhecimentos técnicos em: Manipulação de Dados: Pandas, PySpark Banco de Dados: SQL, NoSQL (MongoDB) ETL: Apache NiFi Ferramentas de BI: Power BI, Tableau Desenvolvimento de Dashboards Google Cloud: BigQuery, Google Cloud Storage Segurança da Informação Metodologias Ágeis: Scrum, Kanban Encaro desafios com determinação e estou sempre em busca de novas maneiras de aprimorar minhas competências e conhecimentos </h3> 
-
-Soft Skills 
-Além das minhas habilidades técnicas, também possuo uma forte base em habilidades interpessoais que considero essenciais para um ambiente de trabalho colaborativo e eficaz:
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Soft Skills</title>
-    <style>
-        .skill-box {
-            display: inline-block;
-            border-radius: 5px;
-            padding: 10px 20px;
-            margin: 10px 5px;
-            text-align: center;
-            font-family: Arial, sans-serif;
-            background-color: #40E0D0; /* Azul turquesa */
-            color: Azul turquesa;
-        }
-    </style>
-</head>
-<body>
-    <div class="skill-box">Motivação para Desafios</div>
-    <div class="skill-box">Colaboração</div>
-    <div class="skill-box">Adaptabilidade</div>
-    <div class="skill-box">Resolução de Problemas</div>
-    <div class="skill-box">Comunicação</div>
-    <div class="skill-box">Dedicação</div>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=rosangelacruz&label=Profile%20views&color=40E0D0&style=flat" alt="rosangelacruz" /> 
