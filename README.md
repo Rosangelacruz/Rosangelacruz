@@ -12,46 +12,54 @@ Além das minhas habilidades técnicas, também possuo uma forte base em habilid
     <title>Caixinhas para Soft Skills</title>
     <style>
         .box {
+            display: inline-block;
             border: 2px solid #40E0D0; /* Azul turquesa */
             border-radius: 5px;
-            padding: 10px;
-            margin: 10px 0;
+            padding: 10px 15px;
+            margin: 10px;
             text-align: center;
             font-family: Arial, sans-serif;
             box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+            background-color: #f0f8ff; /* Cor de fundo leve para destaque */
+            min-width: 150px; /* Largura mínima para caixinhas uniformes */
+        }
+        
+        .container {
+            text-align: center;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
         }
 
-        .container {
-            max-width: 600px;
-            margin: auto;
+        h2 {
+            margin: 0;
+            font-size: 16px;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="box">
-            <h1>Comunicação</h1>
+            <h2>Comunicação</h2>
         </div>
         <div class="box">
-            <h1>Trabalho em Equipe</h1>
+            <h2>Trabalho em Equipe</h2>
         </div>
         <div class="box">
-            <h1>Resolução de Problemas</h1>
+            <h2>Resolução de Problemas</h2>
         </div>
         <div class="box">
-            <h1>Gestão de Tempo</h1>
+            <h2>Gestão de Tempo</h2>
         </div>
         <div class="box">
-            <h1>Adaptabilidade</h1>
+            <h2>Adaptabilidade</h2>
         </div>
         <div class="box">
-            <h1>Pensamento Crítico</h1>
+            <h2>Pensamento Crítico</h2>
         </div>
     </div>
 </body>
 </html>
-
-
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=rosangelacruz&label=Profile%20views&color=40E0D0&style=flat" alt="rosangelacruz" /> 
