@@ -22,6 +22,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rosangelacruz&" alt="rosangelacruz" /></p>
 
 Soft Skills
+
 Além das minhas habilidades técnicas, também possuo uma forte base em habilidades interpessoais que considero essenciais para um ambiente de trabalho colaborativo e eficaz:
 
 Comunicação: Excelentes habilidades de comunicação verbal e escrita, facilitando a clareza e compreensão em projetos de equipe.
