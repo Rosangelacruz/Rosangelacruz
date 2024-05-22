@@ -14,24 +14,24 @@
 
 <p><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosangelacruz&layout=compact&langs_count=7&theme=vue&title_color=40E0D0"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rosangelacruz&show_icons=true&theme=vue&include_all_commits=true&count_private=true&title_color=40E0D0"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rosangelacruz&" alt="rosangelacruz" /></p>/p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rosangelacruz&" alt="rosangelacruz" /></p>
 
 <h3 align="left">Soft Skills:</h3>
 
 Além das minhas habilidades técnicas, também possuo uma forte base em habilidades interpessoais que considero essenciais para um ambiente de trabalho colaborativo e eficaz:
 
-Comunicação: Excelentes habilidades de comunicação verbal e escrita, facilitando a clareza e compreensão em projetos de equipe.
+-Comunicação: Excelentes habilidades de comunicação verbal e escrita, facilitando a clareza e compreensão em projetos de equipe.
 
-Trabalho em Equipe: Experiência em colaborar com equipes diversificadas para alcançar objetivos comuns, garantindo uma dinâmica de trabalho produtiva e harmoniosa.
+-Trabalho em Equipe: Experiência em colaborar com equipes diversificadas para alcançar objetivos comuns, garantindo uma dinâmica de trabalho produtiva e harmoniosa.
 
-Resolução de Problemas: Capacidade de analisar problemas complexos e desenvolver soluções eficazes, mantendo a calma e o foco sob pressão.
+-Resolução de Problemas: Capacidade de analisar problemas complexos e desenvolver soluções eficazes, mantendo a calma e o foco sob pressão.
 
-Gestão de Tempo: Proficiente em priorizar tarefas e gerenciar o tempo de forma eficiente para cumprir prazos e metas estabelecidas.
+-Gestão de Tempo: Proficiente em priorizar tarefas e gerenciar o tempo de forma eficiente para cumprir prazos e metas estabelecidas.
 
-Adaptabilidade: Flexível e capaz de se adaptar rapidamente a mudanças e novas situações, mantendo uma atitude positiva e proativa.
+-Adaptabilidade: Flexível e capaz de se adaptar rapidamente a mudanças e novas situações, mantendo uma atitude positiva e proativa.
 
-Pensamento Crítico: Habilidade de avaliar informações de forma crítica e tomar decisões informadas, contribuindo para a melhoria contínua dos processos.
+-Pensamento Crítico: Habilidade de avaliar informações de forma crítica e tomar decisões informadas, contribuindo para a melhoria contínua dos processos.
 
-Encaro desafios com determinação e estou sempre em busca de novas maneiras de aprimorar minhas competências e conhecimentos.
+-Encaro desafios com determinação e estou sempre em busca de novas maneiras de aprimorar minhas competências e conhecimentos.
 
 
