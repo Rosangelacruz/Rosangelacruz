@@ -22,16 +22,16 @@ Além das minhas habilidades técnicas, também possuo uma forte base em habilid
 
 *  Comunicação: Excelentes habilidades de comunicação verbal e escrita, facilitando a clareza e compreensão em projetos de equipe.
 
-*Trabalho em Equipe: Experiência em colaborar com equipes diversificadas para alcançar objetivos comuns, garantindo uma dinâmica de trabalho produtiva e harmoniosa.
+*  Trabalho em Equipe: Experiência em colaborar com equipes diversificadas para alcançar objetivos comuns, garantindo uma dinâmica de trabalho produtiva e harmoniosa.
 
-- Resolução de Problemas: Capacidade de analisar problemas complexos e desenvolver soluções eficazes, mantendo a calma e o foco sob pressão.
+*  Resolução de Problemas: Capacidade de analisar problemas complexos e desenvolver soluções eficazes, mantendo a calma e o foco sob pressão.
 
--Gestão de Tempo: Proficiente em priorizar tarefas e gerenciar o tempo de forma eficiente para cumprir prazos e metas estabelecidas.
+*  Gestão de Tempo: Proficiente em priorizar tarefas e gerenciar o tempo de forma eficiente para cumprir prazos e metas estabelecidas.
 
--Adaptabilidade: Flexível e capaz de se adaptar rapidamente a mudanças e novas situações, mantendo uma atitude positiva e proativa.
+*  Adaptabilidade: Flexível e capaz de se adaptar rapidamente a mudanças e novas situações, mantendo uma atitude positiva e proativa.
 
--Pensamento Crítico: Habilidade de avaliar informações de forma crítica e tomar decisões informadas, contribuindo para a melhoria contínua dos processos.
+*  Pensamento Crítico: Habilidade de avaliar informações de forma crítica e tomar decisões informadas, contribuindo para a melhoria contínua dos processos.
 
--Encaro desafios com determinação e estou sempre em busca de novas maneiras de aprimorar minhas competências e conhecimentos.
+*  Encaro desafios com determinação e estou sempre em busca de novas maneiras de aprimorar minhas competências e conhecimentos.
 
 
